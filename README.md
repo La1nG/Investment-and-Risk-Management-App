@@ -1,3 +1,5 @@
+-- WIP -- 
+
 # Investment-and-Risk-Management-App
 
 ## Overview
@@ -6,7 +8,7 @@ This is a sophisticated R Shiny application for financial time series forecastin
 
 # Key Features
 
-- Multiple Forecasting Models: Implements ARIMAX, BSTS, Prophet, XGBoost, LSTM, Transformer, and TCN models for robust predictions
+- Multiple Forecasting Models: Implements ARIMA, BSTS, Prophet, XGBoost, LSTM, Transformer, and TCN models for robust predictions
 
 - Ensemble Methods: Combines model outputs using Simple Average, Weighted Average, Bayesian Model Averaging, Stacking, and Adaptive Ensemble techniques
 
@@ -97,7 +99,7 @@ Click "Run Forecast" to generate predictions
 Model Architecture:
 - The app implements several state-of-the-art forecasting models:
 
-- ARIMAX: Autoregressive Integrated Moving Average with eXogenous variables
+- ARIMA: Autoregressive Integrated Moving Average 
 - BSTS: Bayesian Structural Time Series
 - Prophet: Facebook's forecasting procedure
 - XGBoost: Gradient boosting for time series
